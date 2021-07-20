@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
+
+body {
+    margin: 0;
+    background: #34344f;
+}
+form {
+    margin: 10% auto 0;
+    width: 50%;
+    padding: 1% 0;
+    background: #fff;
+    text-align: center;
+}
+input,
+select {
+    border-radius: 30px;
+    border-width: 1px;
+    padding: 5px 10px;
+}
+input:focus,
+select:focus {
+    border-radius: 30px;
+    border-width: 1px;
+    outline: transparent;
+}
+#fontsize {
+    vertical-align: middle;
+}
